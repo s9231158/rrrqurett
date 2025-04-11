@@ -1,0 +1,11 @@
+{
+    "name": "kkttest/tteesst",
+    "description": "測測測測測測",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Kkttest\\Tteesst\\": "src/"
+        }
+    },
+    "require": {}
+}
