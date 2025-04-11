@@ -7,4 +7,4 @@
 ```php
 use Kkttest\Tteesst\Hello;
 
-echo Hello::say(); // 輸出：你好，這是我寫的第一個 Composer 套件！
+echo Hello::say(); 
